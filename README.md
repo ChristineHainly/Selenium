@@ -13,7 +13,7 @@ Make sure you have Python and Selenium installed on your local machine. Once the
 * Webdriver for your browser
 * Facebook account login information
 * Update the following lines with the correct login information 
-** (To secure this put the login information in a separate file and have the script read the user information from it. This way the login information is not in plain text in the script.
+  * To secure this put the login information in a separate file and have the script read the user information from it. This way the login information is not in plain text in the script.
 
 ```
 self.email_field.send_keys('updateThisToTheCorrectEmail@something.com')
